@@ -1,0 +1,49 @@
+
+body {
+  background-color: #E8ECEF;
+  
+}
+
+.centered {
+  
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.jumbotron-centered{
+  position:absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+  background-image: (../images/eye.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.containermt-5{
+  position:absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: (../images/eye.jpg);
+  background-size : cover;
+  background-repeat : no-repeat;
+  background-position : center center;
+}
+
